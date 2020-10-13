@@ -11,6 +11,7 @@ namespace NewStore
 {
     public class Program
     {
+        //just git
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
